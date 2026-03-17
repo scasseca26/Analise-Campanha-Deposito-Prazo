@@ -30,7 +30,7 @@ A base de dados utilizada contém informações de **45.211 clientes** de um ban
 
 ## Premissas da Análise
 
-- Os dados foram analisados em **SQL (PostgreSQL)** e complementados com **Excel**.
+- Os dados foram analisados em **SQL (PostgreSQL)**.
 - Antes de iniciar a análise, foi realizado um **sanity check** para identificar registos com valores desconhecidos (`unknown`) nas colunas críticas.
 - Os registos com `unknown` não foram removidos da análise geral, mas foram isolados numa amostra separada para análise manual por outro analista.
 - A coluna `y` é a variável central, indicando se o cliente aderiu (`yes`) ou não (`no`) ao Depósito à Prazo.
