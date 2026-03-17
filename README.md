@@ -87,6 +87,8 @@ A coluna facto principal é **y** (subscrição do Depósito à Prazo), compleme
 
 ### Qualidade dos Dados — Sanity Check
 
+<img width="633" height="145" alt="primeira_analise" src="https://github.com/user-attachments/assets/63b971ef-32b1-445d-a7fc-9cb7e207a778" />
+
 Foram identificados valores `unknown` nas seguintes colunas críticas:
 
 | Coluna | Registos Unknown | Percentual |
@@ -100,6 +102,8 @@ No total, **37.369 registos (82,65%)** possuem pelo menos um campo desconhecido,
 
 ### Adesão à Campanha
 
+<img width="796" height="482" alt="analise2" src="https://github.com/user-attachments/assets/2944d87f-0c87-41ad-8713-7dc5dd307a48" />
+
 | Resultado | Total | Percentual | Média de Saldo | Média de Idade |
 |-----------|-------|------------|----------------|----------------|
 | Não aderiu | 39.922 | 88,30% | 1.303,71 | 40,84 anos |
@@ -108,6 +112,8 @@ No total, **37.369 registos (82,65%)** possuem pelo menos um campo desconhecido,
 A campanha obteve uma **taxa de adesão de 11,70%**, o que representa **5.289 clientes** num universo de 45.211 contactados. Os aderentes apresentam uma média de idade ligeiramente superior e um saldo médio mais elevado.
 
 ### Perfil Financeiro dos Clientes
+
+<img width="795" height="502" alt="analise3" src="https://github.com/user-attachments/assets/82e0e2fe-e3b0-447b-8ba9-52a039c9b147" />
 
 | Resultado | Saldo Médio | Saldo Mínimo | Saldo Máximo |
 |-----------|-------------|--------------|--------------|
@@ -118,6 +124,8 @@ Os clientes que aderiram apresentam um **saldo médio 38% superior** aos não ad
 
 ### Taxa de Sucesso por Canal de Contacto
 
+<img width="797" height="503" alt="analise4" src="https://github.com/user-attachments/assets/cc4dd5b4-53db-4656-b8a8-a86d5f3cb74a" />
+
 | Canal | Total Contactos | Aderiram | Taxa de Sucesso |
 |-------|----------------|----------|-----------------|
 | Cellular | 29.285 | 4.369 | 14,92% |
@@ -127,6 +135,8 @@ Os clientes que aderiram apresentam um **saldo médio 38% superior** aos não ad
 O canal **cellular** apresenta a maior taxa de conversão (14,92%), seguido do **telephone** (13,42%). O canal desconhecido regista apenas 4,07% de conversão, reforçando a importância de registar correctamente o meio de contacto e priorizar o telemóvel em campanhas futuras.
 
 ### Perfil Demográfico — Subscritores vs. Não Subscritores
+
+<img width="801" height="559" alt="analise5" src="https://github.com/user-attachments/assets/854788b0-4b35-452e-b168-05770d9f7278" />
 
 Entre os **não subscritores**, predominam clientes casados com crédito habitação activo e idade média de 40,8 anos, sugerindo maiores compromissos financeiros que limitam a adesão a novos produtos.
 
